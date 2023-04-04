@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{E37EE785-86CD-4BA1-A942-106E78AF4637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sms.Api", "Sms.Api", "{3FBB5F95-E3DA-47B7-8C36-F1B903592276}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sms.DataLayer", "Sms.DataLayer\Sms.DataLayer.csproj", "{35D0BF4E-6E59-4D37-8031-6F4A83F0A859}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmsApi", "Sms.Api\SmsApi.csproj", "{502AE2F5-D82B-4B9E-A498-6D234F3E8664}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Correlation", "Correlation", "{3C068C2A-8D03-4D6E-958C-975A3D8C9285}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrelationProvider", "CorrelationProvider\CorrelationProvider.csproj", "{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmsGrpcServer", "SmsGrpcServer", "{977C78C3-AB19-4CF5-95AC-EA4306E3468F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmsGrpcService", "SmsGrpcService\SmsGrpcService.csproj", "{5DD0DC45-10F5-4447-BB91-3887D07636E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D0BF4E-6E59-4D37-8031-6F4A83F0A859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D0BF4E-6E59-4D37-8031-6F4A83F0A859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D0BF4E-6E59-4D37-8031-6F4A83F0A859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D0BF4E-6E59-4D37-8031-6F4A83F0A859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502AE2F5-D82B-4B9E-A498-6D234F3E8664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502AE2F5-D82B-4B9E-A498-6D234F3E8664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502AE2F5-D82B-4B9E-A498-6D234F3E8664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502AE2F5-D82B-4B9E-A498-6D234F3E8664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD0DC45-10F5-4447-BB91-3887D07636E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD0DC45-10F5-4447-BB91-3887D07636E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD0DC45-10F5-4447-BB91-3887D07636E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD0DC45-10F5-4447-BB91-3887D07636E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35D0BF4E-6E59-4D37-8031-6F4A83F0A859} = {E37EE785-86CD-4BA1-A942-106E78AF4637}
+		{502AE2F5-D82B-4B9E-A498-6D234F3E8664} = {3FBB5F95-E3DA-47B7-8C36-F1B903592276}
+		{A32AD101-FAC2-4AFF-95BC-6A329AB67A5A} = {3C068C2A-8D03-4D6E-958C-975A3D8C9285}
+		{5DD0DC45-10F5-4447-BB91-3887D07636E7} = {977C78C3-AB19-4CF5-95AC-EA4306E3468F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B7580A-4001-4428-8A85-E9AB5CD7505E}
+	EndGlobalSection
+EndGlobal
