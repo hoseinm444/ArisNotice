@@ -1,0 +1,108 @@
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+D:\My Projects\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Visual Studio 2022 Project\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+D:\Desktop\ArisNoticeCurrent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Another Doc\Visual Studio 2022 project\newest arisnotice\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\OneDrive\Desktop\New folder (3)\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\OneDrive\Desktop\New folder\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.deps.json
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\bin\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.AssemblyReference.cache
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfoInputs.cache
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.AssemblyInfo.cs
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.csproj.CoreCompileInputs.cache
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.dll
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\refint\GeneralInfo.SeedWork.dll
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\GeneralInfo.SeedWork.pdb
+E:\Desktop\recent\GeneralInfo\GeneralInfo.SeedWork\obj\Debug\net6.0\ref\GeneralInfo.SeedWork.dll
